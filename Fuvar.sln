@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuvar.Program", "Fuvar.Program\Fuvar.Program.csproj", "{5CDB0ED9-9BE9-40B7-B202-BCD4E5C18D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuvar.Model", "Fuvar.Model\Fuvar.Model.csproj", "{B7BC1D0F-9908-47B2-86B4-F187AC3BFC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CDB0ED9-9BE9-40B7-B202-BCD4E5C18D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDB0ED9-9BE9-40B7-B202-BCD4E5C18D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDB0ED9-9BE9-40B7-B202-BCD4E5C18D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDB0ED9-9BE9-40B7-B202-BCD4E5C18D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7BC1D0F-9908-47B2-86B4-F187AC3BFC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BC1D0F-9908-47B2-86B4-F187AC3BFC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BC1D0F-9908-47B2-86B4-F187AC3BFC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BC1D0F-9908-47B2-86B4-F187AC3BFC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B28C46E-EFDF-4A14-916C-7175464797DC}
+	EndGlobalSection
+EndGlobal
